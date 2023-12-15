@@ -13,7 +13,7 @@
 - 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
 - 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
 - 👨‍💻 Portfolio link: [https://public.tableau.com/app/profile/simran.nagpurkar/vizzes](https://public.tableau.com/app/profile/simran.nagpurkar/vizzes)
-- 📫 If you have any such opportunity, please feel free to reach me at **nagpurkar.s@northeastern.edu**
+- 📫 How to reach me  **nagpurkar.s@northeastern.edu**
 
 
 <h3 align="left">Connect with me:</h3>
