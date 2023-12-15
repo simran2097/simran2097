@@ -1,4 +1,4 @@
-[![MasterHead](https://www.datasciencecentral.com/wp-content/uploads/2022/02/visu.png)
+![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 
 <h1 align="center">Hi, I'm Simran! 👋</h1>
 <h3 align="center">Enthusiastic Visual Storyteller| Transforming Complex Data into Compelling Insights</h3>
