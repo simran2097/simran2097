@@ -3,6 +3,9 @@
 <h1 align="center">Hi, I'm Simran! 👋</h1>
 <h3 align="center">Enthusiastic Visual Storyteller| Transforming Complex Data into Compelling Insights</h3>
 
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran2097&label=Profile%20views&color=0e75b6&style=flat" alt="simran2097" /> </p>
 
 - 🌱 I’m currently learning **DataBricks, Snowflake**
