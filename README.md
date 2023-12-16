@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran2097&label=Profile%20views&color=0e75b6&style=flat" alt="simran2097" /> </p>
 
-- 🌱 I’m currently learning **DataBricks, Snowflake**.
+- 🌱 I’m currently learning **DataBricks and Snowflake**.
 - 👨🏽‍🎓 Graduate student with a Master's degree in Information Systems.
 - 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
 - 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
